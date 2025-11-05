@@ -56,6 +56,7 @@ Note that not all dependencies for the tools provided in the
 "Manage dependencies" in the admin interface.
 
 Issues and Galaxy Development
+
 =============================
 
 Please see `CONTRIBUTING.md <CONTRIBUTING.md>`_ .
